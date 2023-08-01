@@ -10,7 +10,7 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
     * 💬 I'm looking to collaborate and create some cool content that we can share with the community
 
 - My current skills are:
-    *Python, SQL, Pyspark, Hadoop, Spark, Databricks, Kafka, GIT,
+    * Python, SQL, Pyspark, Hadoop, Spark, Databricks, Kafka, GIT,
 - 🌱 I’m currently learning:
     * Snowflake and DBT
 
