@@ -17,6 +17,6 @@ I am a Data Engineer who creates simple and effective ways of transferring data 
 
 - Here are some of my recent projects:
   * <a href="https://github.com/TaraThankachan/SBDL">Extract data from hive , transform and publish in kafka topics</a>
-  * <a href="https://github.com/TaraThankachan/sampleETL">Sample ETL Batch job with joins and transformations </a>
+  * <a href="[https://github.com/TaraThankachan/Ingestion-Pipeline">Sample ETL Batch job with joins and transformations </a>
   
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tara-thankchan-68933a187/">LinkedIn</a>
